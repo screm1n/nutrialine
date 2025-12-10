@@ -16,7 +16,7 @@ import serviceLogo from "../logo.png";
 const professionalName = "Aline Ehlers";
 const brandTitle = "Nutricionista Aline Ehlers";
 const professionalInitials = "AE";
-const specialty = "Nutricionista Clínica & Comportamental";
+const specialty = "Nutrição Feminina";
 const headline =
   "Planos nutricionais personalizados para uma rotina mais leve, sustentável e alinhada à sua realidade.";
 const aboutText =
